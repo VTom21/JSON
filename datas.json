@@ -1,0 +1,58 @@
+[
+  {
+    "data_id": 1,
+    "nev": "John Doe",
+    "age": 30,
+    "job": "Engineer",
+    "gender": "Male"
+  },
+  {
+    "data_id": 2,
+    "nev": "Jane Smith",
+    "age": 25,
+    "job": "Doctor",
+    "gender": "Female"
+  },
+  {
+    "data_id": 3,
+    "nev": "Bob Johnson",
+    "age": 40,
+    "job": "Teacher",
+    "gender": "Male"
+  },
+  {
+    "data_id": 4,
+    "nev": "Emily Brown",
+    "age": 35,
+    "job": "Artist",
+    "gender": "Female"
+  },
+  {
+    "data_id": 5,
+    "nev": "Michael Clark",
+    "age": 45,
+    "job": "Accountant",
+    "gender": "Male"
+  },
+  {
+    "data_id": 6,
+    "nev": "Sarah Johnson",
+    "age": 28,
+    "job": "Software Developer",
+    "gender": "Female"
+  },
+  {
+    "data_id": 7,
+    "nev": "Alex Turner",
+    "age": 33,
+    "job": "Marketing Manager",
+    "gender": "Male"
+  },
+  {
+    "data_id": 8,
+    "nev": "Laura White",
+    "age": 31,
+    "job": "Nurse",
+    "gender": "Female"
+  }
+]
