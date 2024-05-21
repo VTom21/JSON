@@ -1,0 +1,5 @@
+ /* Az OMDB API URL összeállítása a keresett film alapján
+    az encodeURI() beépített function átalakítja az URL-t kompatibilis formára
+    */
+    const url = `http://www.omdbapi.com/?s=${encodeURI(keresettFilm)}&apiKey=9606ae0f`;
+console.log(url);
